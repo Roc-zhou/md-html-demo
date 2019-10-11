@@ -12,7 +12,7 @@
     <p>居左</p>
     </div>
     <div class="hljs-center">
-    <p>居中</p>
+      <p>居中</p>
     </div>
     <div class="hljs-right">
     <p>居右</p>
